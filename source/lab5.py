@@ -1,4 +1,4 @@
-from lab3_and_lab4 import text
+from source.lab3_and_lab4 import text
 
 import random
 import math
